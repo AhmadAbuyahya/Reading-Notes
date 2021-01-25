@@ -8,3 +8,4 @@ A growth mindset is to believe that your abilities can be enhanced and developed
 1. *Acknowledge and embrace imperfections.*
 2. *View challenges as opportunities.*
 3. *Try different learning tactics.*
+4. *Believes failures are just temporary setbacks.*
