@@ -31,8 +31,6 @@ block-level elements.
 ## Chapter 8: Extra Markup
 * DOCTYPES tell browsers which version of HTML you
 are using.
-* You can add comments to your code between the
-<!-- and --> markers.
 * The id and class attributes allow you to identify
 particular elements.
 * The <div> and <span> elements allow you to group
